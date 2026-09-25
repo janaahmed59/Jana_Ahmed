@@ -1,4 +1,4 @@
-# Hi, I'm Jana Ahmed 👋
+# Jana Ahmed 👋
 
 ### Computer Science Student | .NET Backend Developer
 
