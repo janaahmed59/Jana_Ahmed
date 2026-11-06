@@ -64,10 +64,9 @@ I practice Data Structures, Algorithms, and Problem Solving through competitive 
 - Advanced ASP.NET Core
 - Backend Architecture
 - Software Engineering Practices
-- REST API Design
-- Asynchronous Programming
-- Background Services
+- Database system & Performance
 - Testing and Clean Code
+- Deployement & DevOps fundamentals
 
 ## 🎯 Goals
 
