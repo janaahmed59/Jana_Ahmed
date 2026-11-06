@@ -1,6 +1,6 @@
 # Jana Ahmed 👋
 
-### Computer Science Student | .NET Backend Developer
+### Information technology Student | .NET Backend Developer
 
 I'm a Computer Science student at Zagazig University, currently focused on Backend Development and Software Engineering.
 
@@ -15,6 +15,14 @@ I enjoy building practical backend applications with C# and .NET while continuou
 - Web APIs
 - Entity Framework Core
 - LINQ
+- MiddleWare
+
+### Software Engineering
+- OOP
+- Solid Principles
+- Clean Architecture & Modular Monolith
+- Background job & Asynchronous programming
+- Result Pattern
 
 ### Database
 - SQL Server
@@ -28,9 +36,10 @@ I enjoy building practical backend applications with C# and .NET while continuou
 ### Tools
 - Git
 - GitHub
+- CI/Cd
 - Visual Studio
 - VS Code
-- Swagger / OpenAPI
+- Swagger / OpenAPI 
 
 ## 🚀 Featured Projects
 
